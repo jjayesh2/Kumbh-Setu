@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pilgrim Platform - Kumbh Mela 2026, Nashik",
+  "description": "A comprehensive self-contained prototype platform for Kumbh Mela 2026 in Nashik featuring interactive custom visual mapping, crowd-aware navigation routes, pilgrim facilities, vendor registration with simulated OCR, and an admin command dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
